@@ -41,7 +41,7 @@ For any problem open an issue in this repository.
 | [Vite](https://vitejs.dev/) | Frontend bundler and dev |
 | [C#](https://dotnet.microsoft.com/en-us/) | API backend |
 | [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging) | Push Notifications |
-| [MonbgoDb](https://dotnet.microsoft.com/en-us/) | API Backend database |
+| [MongoDb](https://dotnet.microsoft.com/en-us/) | API Backend database |
 | [Docker](https://www.docker.com/) | API Backend deployment |
 
 ## FAQ
