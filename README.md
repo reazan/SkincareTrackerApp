@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="180" src="./icon.png" alt="SkincareTracker Logo">
+</p>
+<br/>
+
 # Skincare Tracker
 > Track your favorite skincare products from various retailers.
 
