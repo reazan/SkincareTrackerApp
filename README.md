@@ -85,3 +85,4 @@ With my WebScraper backend I assure that:
 ## Support my work!
 
 If you find this mobile application useful, please consider helping me maintain it with a donation or sponsorship :) Thanks
+(WIP)
