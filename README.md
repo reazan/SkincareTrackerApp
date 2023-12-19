@@ -36,6 +36,8 @@ For any problem open an issue in this repository.
 - Same product from different stores? Group them!
 - Choose between Light/Dark theme.
 
+  For more details read the Release notes!
+
 ## Tech
 
 | Project | Purpose |
