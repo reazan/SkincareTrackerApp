@@ -29,7 +29,7 @@ For any problem open an issue in this repository.
 - Find your product and add it to your favorites.
 - Missing product? Add it from the "Add" page.
 - Enable notifications for your favorites products.
-- Same product from different stores? Group theme!
+- Same product from different stores? Group them!
 - Choose between Light/Dark theme.
 
 ## Tech
