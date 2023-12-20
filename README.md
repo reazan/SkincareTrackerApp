@@ -92,6 +92,8 @@ With my WebScraper backend I assure that:
 3) All the information copied are primarily factual in nature, and the taking did not infringe any rights, including copyrights.
 4) All information are used to create a transformative service and are not used to steal market share from the target website by luring away users or creating a substantially similar product.
 
+Part of this section is taken from [Is Webscraping legal?](https://blog.apify.com/is-web-scraping-legal/)
+
 ## Support my work!
 
 If you find this mobile application useful, please consider helping me maintain it with a donation or sponsorship :) Thanks
