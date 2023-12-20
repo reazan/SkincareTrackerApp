@@ -87,7 +87,7 @@ It will certainly be possible to improve the service which, in fact, means chang
 **4 - Why I can only set 15 notifications?**
 > I am a single developer and not a company. 
 > To function, this mobile app requires information obtained via an API published on an online server. This API has monthly costs to bear.
-For the moment I have blocked notifications for up to 10 products but if the application goes well and is supported in some way, it is possible that this limitation will increase.
+For the moment I have blocked notifications for up to 15 products but if the application goes well and is supported in some way, it is possible that this limitation will increase.
 
 ## WebScraping Ethics
 
