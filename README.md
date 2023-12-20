@@ -15,14 +15,15 @@ These are the major retailers we track at the moment, more might be added at a l
 - Stylevana (IT/EN)
 - YesStyle (IT/EN)
 - Jolse
+- StyleKorean
 
 *This app was mainly made for my girlfriend who was going crazy keeping track of hundreds of  products with huge fluctuations in prices. Because of that this project came alive.*
 
 ## Installation
 
 1) Navigate to this page with your android smartphone
-2) Download the APK
-3) Install the APK
+1) Download the APK ("skincare-tracker-app.apk")
+1) Install the APK (it is possibile that you need to grant permission to install an app outside the playstore) 
 
 That's it.
 
