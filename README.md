@@ -1,10 +1,6 @@
 # Skincare Tracker
 > Track your favorite skincare products from various retailers.
 
-<p align="center">
-  <img width="180" src="./icon.png" alt="SkincareTracker Logo">
-</p>
-
 - Updated price every 24-48h
 - Custom notifications
 - Dark/Light theme
