@@ -12,17 +12,22 @@
 
 Skincare Tracker is a mobile app that lets you track easily skincare products. 
 These are the major retailers we track at the moment, more might be added at a later time if there is strong demand and some support for it.
-- Stylevana (IT/EN)
-- YesStyle (IT/EN)
-- Jolse
-- StyleKorean
+<details>
+  <summary>Show</summary>
+
+  ### Retailers
+  - Jolse
+  - StyleKorean
+  - Stylevana (IT/EN)
+  - YesStyle (IT/EN)
+</details>
 
 *This app was mainly made for my girlfriend who was going crazy keeping track of hundreds of  products with huge fluctuations in prices. Because of that this project came alive.*
 
 ## Installation
 
 1) Navigate to this page with your android smartphone
-1) Download the APK ("skincare-tracker-app.apk")
+1) Download the APK file
 1) Install the APK (it is possibile that you need to grant permission to install an app outside the playstore) 
 
 That's it.
@@ -64,12 +69,14 @@ For any problem open an issue in this repository.
 **3 - Is this app tracking my personal information?**
 > No personal information are tracked or saved.
 > The only information this app needs are:
-> **Notification FCM Token**: this token is needed to reach your smartphone via Push Notifications. 
-> **Smartphone ID**: Because the FCM token could change I associate it with your smartphone ID so I can assure that your notifications can be delivered. (Smartphone ID is a string code 'f2g7o1bc9e123ah0')
-> &nbsp;
-> In order to use the app, I don't ask for any username and password these are the strictly two information I need to save in order to enable Push Notifications to your smartphone.
+>  
+> **Notification FCM Token**: this token is needed to reach your smartphone via Push Notifications.
+> 
+> **Smartphone ID**: because the FCM token could change I associate it with your smartphone ID so I can assure that your notifications can be delivered. (Smartphone ID is a string code like this 'f2g7o1bc9e123ah0')
+> 
+> In order to use the app I don't ask for any username and password. So these are the strictly two information I need to save in order to enable Push Notifications to your smartphone.
 
-**4 - Why I can only set 10 notifications?**
+**4 - Why I can only set 15 notifications?**
 > I am a single developer and not a company. 
 > To function, this mobile app requires information obtained via an API published on an online server. This API has monthly costs to bear.
 For the moment I have blocked notifications for up to 10 products but if the application goes well and is supported in some way, it is possible that this limitation will increase.
