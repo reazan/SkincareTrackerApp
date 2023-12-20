@@ -7,6 +7,13 @@
 - ...and more!
 
 Skincare Tracker is a mobile app that lets you track easily skincare products. 
+
+## Purpose
+
+*This app was mainly made for my girlfriend who was going crazy keeping track of hundreds of  products with huge fluctuations in prices. Because of that this project came alive.*
+
+## Retailers
+
 These are the major retailers we track at the moment, more might be added at a later time if there is strong demand and some support for it.
 <details>
   <summary>Show</summary>
@@ -18,7 +25,6 @@ These are the major retailers we track at the moment, more might be added at a l
   - YesStyle (IT/EN)
 </details>
 
-*This app was mainly made for my girlfriend who was going crazy keeping track of hundreds of  products with huge fluctuations in prices. Because of that this project came alive.*
 
 ## Installation
 
@@ -39,6 +45,12 @@ For any problem open an issue in this repository.
 - Choose between Light/Dark theme.
 
   For more details read the Release notes!
+
+## Limitations
+
+The API that retrieves prices is published in a paid online space (5 to 6 $/month). The tier of this space is small and consequently the capabilities are limited. In fact, price recovery always occurs one at a time and never in parallel: which means that with many products to verify there is certainly a drop in performance.
+
+It will certainly be possible to improve the service which, in fact, means changing the host tier to have higher capabilities and therefore pay more.
 
 ## Tech
 
