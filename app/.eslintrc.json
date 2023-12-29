@@ -1,0 +1,35 @@
+{
+	"extends": "@antfu",
+	"rules": {
+		"no-tabs": "off",
+		"semi": "off",
+    	"@typescript-eslint/semi": ["error", "always"],
+		"@typescript-eslint/indent": ["error", "tab"],
+		"no-console": "warn",
+		"quotes": ["error", "double"],
+		"@typescript-eslint/quotes": ["error", "double"]
+	},
+	"overrides": [
+		{
+			"files": ["*.vue"],
+			"rules": {
+				"unused-imports/no-unused-imports": "off",
+				"unused-imports/no-unused-vars": "off",
+				"vue/component-tags-order": ["error", {
+					"order": [  "template", "script" , "style" ]
+				}],
+				"vue/no-mutating-props": ["error", { "shallowOnly": true }]
+			}
+		},
+		{
+			"files": ["*.json"],
+			"excludedFiles": [
+				"package.json",
+				"package-lock.json"
+			],
+			"rules": {
+				"jsonc/indent": ["error", "tab"]
+			}
+		}
+	]
+}
